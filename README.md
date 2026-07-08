@@ -1,5 +1,4 @@
-# Transformación del proceso de devoluciones digitales mediante diseño UX, conectando experiencia de usuario, eficiencia operativa y mejora continua
-El flujo de devoluciones digitales presentaba dificultades de comprensión para los usuarios. La interfaz tenía poca claridad visual y el proceso incluía pasos innecesarios, lo que generaba fricción en la interacción y afectaba la finalización del proceso.
+#Las devoluciones son una de las interacciones más críticas dentro de una tienda virtual. Sin embargo, el proceso presentaba dificultades para los usuarios debido a una navegación poco intuitiva, información dispersa y una baja visibilidad del estado de la solicitud. Esto generaba incertidumbre, aumentaba la cantidad de consultas al servicio de atención y afectaba la experiencia de compra.
 
 Presentacion Figma:  https://www.figma.com/deck/S0dYPntwXGiJTFVrvvlNi3
 
